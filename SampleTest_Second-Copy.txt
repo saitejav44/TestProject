@@ -5,3 +5,5 @@ Testing second commit for same file.
 This is for testing...
 
 This is for testing second copy for staging area.
+
+This is for testing difference between local and repository
