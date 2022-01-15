@@ -3,3 +3,5 @@ Hi, I am doing DevOps training.
 Testing second commit for same file.
 
 This is for testing...
+
+This is for testing second copy for staging area.
