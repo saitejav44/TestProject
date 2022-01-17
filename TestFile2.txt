@@ -1,1 +1,1 @@
-This is for testing duplicate files
+This is for testing duplicate files -> Tested and unable to pull the file from Git to local repo. Its giving merge failed error
