@@ -1,1 +1,4 @@
 notIncludedFiles.txt
+ignoreFile.txt
+*.log
+logs/
