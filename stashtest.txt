@@ -1,0 +1,1 @@
+This file is created in testrebase branch in order to test stash concept
